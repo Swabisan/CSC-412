@@ -1,2 +1,9 @@
 # CSC412
-Just a bunch of stuff from a CS Lab at SFSU
+A website I made for a CS Lab at SFSU
+
+=========================================================
+ITS ABOUT BOATS
+=========================================================
+
+
+Made using startbootstrap's blog template
